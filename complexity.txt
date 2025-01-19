@@ -1,0 +1,16 @@
+ Big O notation
+  O(2n +6 ) -> O(n) : every constant is dropped
+  #currently assuming O(n) or whatever related to big O refers to the out put related to the input
+
+Time Complexity
+  constant time : O(1)
+    same running time regardless of the size of the input
+
+  linear time : O(n)
+    the amount of data increases ,the running time increases by the same amount
+
+
+  quadratic time : O(n^2)
+  cubic time : O(n^3)
+  exponential time : O(2^n)
+  factorial time : O(n!)
