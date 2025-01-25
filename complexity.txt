@@ -1,6 +1,9 @@
- Big O notation
+ Big O notation : represent the general form of "time" and "space" complexity
+
   O(2n +6 ) -> O(n) : every constant is dropped
   #currently assuming O(n) or whatever related to big O refers to the out put related to the input
+
+# n -> input
 
 Time Complexity
   constant time : O(1)
@@ -11,6 +14,13 @@ Time Complexity
 
 
   quadratic time : O(n^2)
-  cubic time : O(n^3)
-  exponential time : O(2^n)
-  factorial time : O(n!)
+
+  Logrithmic time : O(logn) : binary search
+
+  Quasilinear time : O(nlogn)
+
+O(1) > O (log n) > O (n) > O (n log n) > O (n^2)
+
+# these are the common ones
+
+Space Complexity (measure of the memory required for an algorithm to run)
