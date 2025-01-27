@@ -1,0 +1,12 @@
+Iterable
+
+list 
+  can hold duplicated values
+  order is gurantee
+
+Map
+  order is not gurantee
+
+Set 
+  hold unique values
+  order is not gurantee
