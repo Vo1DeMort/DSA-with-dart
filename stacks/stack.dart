@@ -1,7 +1,9 @@
-//NOTE: a "Stack" 's purpose is to limit the number of way to access data
+// NOTE: a "Stack" 's purpose is to limit the number of way to access data
 // real world examples
 // pancakes, books
 // operations
+
+// NOTE:
 // push, pop
 // LIFO
 // recursion is managed with stack
